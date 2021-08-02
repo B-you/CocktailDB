@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "74337e9e8049b3828fb790efd42d9345"
+build_time: [1627918277, 441576000]
+inputs:
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/ViewController/Filter/Cell/FilterCell.swift": [1627715691, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/ViewController/Filter/FilterViewController.swift": [1627730205, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/AppSeperatorView.swift": [1627720780, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/ViewController/Drink/Cell/DrinkHeaderCell.swift": [1627714871, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/Network/AIReachabilityManager.swift": [1627720766, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/AIGlobals.swift": [1627728092, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/AIExtensions.swift": [1627720773, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/Network/AIServiceManager.swift": [1627722811, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/AppDelegate.swift": [1627728752, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/ViewController/Drink/Cell/DrinkCell.swift": [1627724572, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/Network/AIUtilsManager.swift": [1627720763, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/ViewController/Drink/CategoryModel.swift": [1627725655, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/ViewController/Drink/CocktailListViewController.swift": [1627730903, 0]
+  "/Users/adebayoadesokan/Downloads/CocktailDB/CocktailDB/Network/AIServiceConstants.swift": [1627720740, 0]

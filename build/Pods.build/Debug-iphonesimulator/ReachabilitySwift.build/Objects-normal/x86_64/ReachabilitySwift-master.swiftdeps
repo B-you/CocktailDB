@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "6aa6690218d83a2a2fb8368df0a1c63a"
+build_time: [1627918248, 576304000]
+inputs:
+  "/Users/adebayoadesokan/Downloads/CocktailDB/Pods/ReachabilitySwift/Sources/Reachability.swift": [1627710358, 0]

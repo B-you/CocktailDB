@@ -1,0 +1,60 @@
+Target dependency graph (19 targets)
+Alamofire in Pods
+MBProgressHUD in Pods
+Masonry in Pods
+Moya in Pods, depends on:
+Alamofire in Pods (explicit)
+PINOperation in Pods
+PINCache in Pods, depends on:
+PINOperation in Pods (explicit)
+PINRemoteImage in Pods, depends on:
+PINCache in Pods (explicit)
+PINOperation in Pods (explicit)
+R.swift.Library in Pods
+R.swift in Pods, depends on:
+R.swift.Library in Pods (explicit)
+ReachabilitySwift in Pods
+Resolver in Pods
+RxSwift in Pods
+SDWebImage in Pods
+SwifterSwift in Pods
+Sync in Pods
+Texture in Pods, depends on:
+PINRemoteImage in Pods (explicit)
+UIScrollView-InfiniteScroll in Pods
+Pods-CocktailDB in Pods, depends on:
+Alamofire in Pods (explicit)
+MBProgressHUD in Pods (explicit)
+Masonry in Pods (explicit)
+Moya in Pods (explicit)
+PINCache in Pods (explicit)
+PINOperation in Pods (explicit)
+PINRemoteImage in Pods (explicit)
+R.swift in Pods (explicit)
+R.swift.Library in Pods (explicit)
+ReachabilitySwift in Pods (explicit)
+Resolver in Pods (explicit)
+RxSwift in Pods (explicit)
+SDWebImage in Pods (explicit)
+SwifterSwift in Pods (explicit)
+Sync in Pods (explicit)
+Texture in Pods (explicit)
+UIScrollView-InfiniteScroll in Pods (explicit)
+CocktailDB in CocktailDB, depends on:
+Pods-CocktailDB in Pods (implicit dependency via file 'Pods_CocktailDB.framework' in build phase 'Link Binary'
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS'
+Texture in Pods (implicit dependency via options '-framework AsyncDisplayKit' in build setting 'OTHER_LDFLAGS'
+MBProgressHUD in Pods (implicit dependency via options '-framework MBProgressHUD' in build setting 'OTHER_LDFLAGS'
+Masonry in Pods (implicit dependency via options '-framework Masonry' in build setting 'OTHER_LDFLAGS'
+Moya in Pods (implicit dependency via options '-framework Moya' in build setting 'OTHER_LDFLAGS'
+PINCache in Pods (implicit dependency via options '-framework PINCache' in build setting 'OTHER_LDFLAGS'
+PINOperation in Pods (implicit dependency via options '-framework PINOperation' in build setting 'OTHER_LDFLAGS'
+PINRemoteImage in Pods (implicit dependency via options '-framework PINRemoteImage' in build setting 'OTHER_LDFLAGS'
+ReachabilitySwift in Pods (implicit dependency via options '-framework Reachability' in build setting 'OTHER_LDFLAGS'
+Resolver in Pods (implicit dependency via options '-framework Resolver' in build setting 'OTHER_LDFLAGS'
+R.swift.Library in Pods (implicit dependency via options '-framework Rswift' in build setting 'OTHER_LDFLAGS'
+RxSwift in Pods (implicit dependency via options '-framework RxSwift' in build setting 'OTHER_LDFLAGS'
+SDWebImage in Pods (implicit dependency via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+SwifterSwift in Pods (implicit dependency via options '-framework SwifterSwift' in build setting 'OTHER_LDFLAGS'
+Sync in Pods (implicit dependency via options '-framework Sync' in build setting 'OTHER_LDFLAGS'
+UIScrollView-InfiniteScroll in Pods (implicit dependency via options '-framework UIScrollView_InfiniteScroll' in build setting 'OTHER_LDFLAGS'

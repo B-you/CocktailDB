@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/adebayoadesokan/Downloads/CocktailDB/build/Debug-iphonesimulator/SwifterSwift/SwifterSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/adebayoadesokan/Downloads/CocktailDB/build/Pods.build/Debug-iphonesimulator/SwifterSwift.build/unextended-module.modulemap",
+    }]
+  }]
+}

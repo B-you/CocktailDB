@@ -1,0 +1,10 @@
+framework module Resolver {
+  umbrella header "Resolver-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Resolver.__Swift {
+    exclude header "Resolver-Swift.h"
+}
